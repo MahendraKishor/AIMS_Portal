@@ -1,0 +1,12 @@
+Transcript of ASHUTOSH KUMAR
+Enrollment Number: 2022AIM1001
+Batch of 2022
+
+Semester 1
++-------------+-----------------+-----------+---------+
+| Course_ID   | Course_Title    |   Credits | Grade   |
+|-------------+-----------------+-----------+---------|
+| CS509       | PG Software Lab |         3 | A       |
++-------------+-----------------+-----------+---------+
+
+
